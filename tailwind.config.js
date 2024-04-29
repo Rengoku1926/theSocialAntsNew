@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily:{
+      teko:["Teko", "sans-serif"],
+      cabin:["cabin", "sans-serif"],
+    }
   },
   plugins: [],
 }
